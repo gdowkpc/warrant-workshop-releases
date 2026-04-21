@@ -1,0 +1,14 @@
+{
+  "app": "Warrant Workshop",
+  "latest_version": "0.1.3",
+  "build_date": "April 21, 2026",
+  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.3/WarrantBuilder.zip",
+  "sha256": "",
+  "release_notes": [
+    "Added dark mode support with a Welcome-screen toggle.",
+    "Added update-check foundation with release notes before download.",
+    "Added explicit SFST performed-test controls for HGN, Walk and Turn, and One Leg Stand.",
+    "Updated affidavit and warrant judge signature blocks for digital signatures.",
+    "Refined SFST overview fields and removed unused environmental fields."
+  ]
+}
