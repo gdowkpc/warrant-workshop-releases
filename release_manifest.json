@@ -1,13 +1,14 @@
 {
   "app": "Warrant Workshop",
-  "latest_version": "0.1.4",
+  "latest_version": "0.1.5",
   "build_date": "April 22, 2026",
-  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.4/WarrantBuilder.zip",
-  "sha256": "742CFB0C40B8BFA81AA4BEE66ADA922E1BF1990607340E365F2C034504C2A7A2",
+  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.5/WarrantBuilder.zip",
+  "sha256": "3764AF8B7F4BA7DED3A1C729295F364BF5FF6FE590975FDFE3A57D8DE35C431E",
   "release_notes": [
-    "Updated SFST refusal handling so refusal is exclusive with unable/administered options.",
-    "Added Rohr's admonishment tracking for SFST refusals.",
-    "Hid other-officer SFST fields unless another officer administered the tests.",
-    "Added repository rebuild and release workflow instructions."
+    "Cleaned up Review and Clause Preview wording.",
+    "Renamed Document Finalization to Preflight and simplified PDF generation controls.",
+    "Removed edited-DOCX upload/finalization scaffolding.",
+    "Added save-before-exit prompting.",
+    "Added NCIC race-code guidance and output translation."
   ]
 }
