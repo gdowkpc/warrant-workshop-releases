@@ -1,14 +1,14 @@
 {
   "app": "Warrant Workshop",
-  "latest_version": "0.1.5",
+  "latest_version": "0.1.6",
   "build_date": "April 22, 2026",
-  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.5/WarrantBuilder.zip",
-  "sha256": "3764AF8B7F4BA7DED3A1C729295F364BF5FF6FE590975FDFE3A57D8DE35C431E",
+  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.6/WarrantBuilder.zip",
+  "sha256": "A2AA123BB5616A59703BF8800AE498E0D0853C42520F8A3F975253B8C3BEA219",
   "release_notes": [
-    "Cleaned up Review and Clause Preview wording.",
-    "Renamed Document Finalization to Preflight and simplified PDF generation controls.",
-    "Removed edited-DOCX upload/finalization scaffolding.",
-    "Added save-before-exit prompting.",
-    "Added NCIC race-code guidance and output translation."
+    "Added separate Vehicle Infotainment / Berla warrant subtype.",
+    "Added Berla-specific training, prayer, command, and selected data-category output.",
+    "Clarified off-vehicle review authority after authorized data preservation or extraction.",
+    "Kept Berla separate from EDR / ACM extraction language.",
+    "Improved full justification for vehicle detail prose in DOCX and PDF outputs."
   ]
 }
