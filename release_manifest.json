@@ -1,14 +1,14 @@
 {
   "app": "Warrant Workshop",
-  "latest_version": "0.1.6",
+  "latest_version": "0.1.7",
   "build_date": "April 22, 2026",
-  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.6/WarrantBuilder.zip",
-  "sha256": "A2AA123BB5616A59703BF8800AE498E0D0853C42520F8A3F975253B8C3BEA219",
+  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.7/WarrantBuilder.zip",
+  "sha256": "4539D8719DB351915254B4C47E97696DE612040E419676D697C58BB193CF7544",
   "release_notes": [
-    "Added separate Vehicle Infotainment / Berla warrant subtype.",
-    "Added Berla-specific training, prayer, command, and selected data-category output.",
-    "Clarified off-vehicle review authority after authorized data preservation or extraction.",
-    "Kept Berla separate from EDR / ACM extraction language.",
-    "Improved full justification for vehicle detail prose in DOCX and PDF outputs."
+    "Added Cell Tower Data warrant subtypes for Verizon, AT&T, and T-Mobile.",
+    "Added provider-specific cell tower record categories, validation, and DOCX/PDF output sections.",
+    "Forced vehicle VIN entries to uppercase while typing, loading, and rendering.",
+    "Improved judge signature block pagination in DOCX and PDF outputs.",
+    "Added a build option to package without dropping a copy into OneDrive."
   ]
 }
