@@ -1,12 +1,12 @@
 ﻿{
-    "latest_version":  "0.1.9",
+    "latest_version":  "0.1.10",
     "build_date":  "April 22, 2026",
     "release_date":  "April 21, 2026",
-    "download_url":  "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.9/WarrantBuilder.zip",
-    "sha256":  "B4E720627361BD2FB8AE89F2BE4CDDCE827912506FFEF18F80F5C00D764CAB03",
+    "download_url":  "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.10/WarrantBuilder.zip",
+    "sha256":  "CBD549E4E0CFA0AA77EA277F0D1284BCE5E7A884F3A06A6F38242E254A22A0DC",
     "release_notes":  [
-                          "Added vertical breathing room between major warrant tables for cleaner pagination.",
-                          "Changed people, vehicles, property, devices, and biological sample records to full-width boxed output sections.",
-                          "Preserved existing warrant and affidavit field content while reducing cramped multi-column record layouts."
+                          "Compacted the Preflight tab and removed selected-template placeholder rows.",
+                          "Aligned warrant record section boxes and moved the items summary into the biological sample details header.",
+                          "Removed the redundant warrant biological evidence or analysis block now covered by command language."
                       ]
 }
