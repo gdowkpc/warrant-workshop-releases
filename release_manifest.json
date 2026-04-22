@@ -1,12 +1,12 @@
 ﻿{
-    "latest_version":  "0.1.10",
+    "latest_version":  "0.1.11",
     "build_date":  "April 22, 2026",
     "release_date":  "April 21, 2026",
-    "download_url":  "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.10/WarrantBuilder.zip",
-    "sha256":  "CBD549E4E0CFA0AA77EA277F0D1284BCE5E7A884F3A06A6F38242E254A22A0DC",
+    "download_url":  "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.11/WarrantBuilder.zip",
+    "sha256":  "DF105D429A4DC48563B50698A204ACC66685FBE229CBA24BDA5F3F95AA510C2E",
     "release_notes":  [
-                          "Compacted the Preflight tab and removed selected-template placeholder rows.",
-                          "Aligned warrant record section boxes and moved the items summary into the biological sample details header.",
-                          "Removed the redundant warrant biological evidence or analysis block now covered by command language."
+                          "Shared core DOCX/PDF renderer content-shaping helpers to reduce output drift risk.",
+                          "Added regression coverage for shared person, vehicle, location, and property/device output shaping.",
+                          "Generated a representative DOCX/PDF review packet for visual renderer parity checks."
                       ]
 }
