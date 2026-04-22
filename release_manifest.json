@@ -1,14 +1,12 @@
-{
-  "app": "Warrant Workshop",
-  "latest_version": "0.1.7",
+﻿{
+  "latest_version": "0.1.8",
   "build_date": "April 22, 2026",
-  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.7/WarrantBuilder.zip",
-  "sha256": "4539D8719DB351915254B4C47E97696DE612040E419676D697C58BB193CF7544",
+  "release_date": "April 21, 2026",
+  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.8/WarrantBuilder.zip",
+  "sha256": "2AAB4EDF522D72FD2200D624C210317AA75C40B234346DE7C8C950B8A7B7D7ED",
   "release_notes": [
-    "Added Cell Tower Data warrant subtypes for Verizon, AT&T, and T-Mobile.",
-    "Added provider-specific cell tower record categories, validation, and DOCX/PDF output sections.",
-    "Forced vehicle VIN entries to uppercase while typing, loading, and rendering.",
-    "Improved judge signature block pagination in DOCX and PDF outputs.",
-    "Added a build option to package without dropping a copy into OneDrive."
+    "Fixed DNA and cell tower subtype prayers when vehicle search defaults are also present.",
+    "Improved responsive layout behavior across tabs when the window is not maximized.",
+    "Reduced horizontal overflow from long form labels, checkbox text, combo boxes, and collection-editor buttons."
   ]
 }
