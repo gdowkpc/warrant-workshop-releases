@@ -1,12 +1,12 @@
 ﻿{
-    "latest_version":  "0.1.11",
-    "build_date":  "April 22, 2026",
-    "release_date":  "April 21, 2026",
-    "download_url":  "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.11/WarrantBuilder.zip",
-    "sha256":  "DF105D429A4DC48563B50698A204ACC66685FBE229CBA24BDA5F3F95AA510C2E",
-    "release_notes":  [
-                          "Shared core DOCX/PDF renderer content-shaping helpers to reduce output drift risk.",
-                          "Added regression coverage for shared person, vehicle, location, and property/device output shaping.",
-                          "Generated a representative DOCX/PDF review packet for visual renderer parity checks."
-                      ]
+    "latest_version": "0.1.12",
+    "build_date": "April 23, 2026",
+    "release_date": "April 23, 2026",
+    "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.12/WarrantBuilder.zip",
+    "sha256": "4AA91949A63811621B831D663D46BC88230CDA870578C722EFAAA1F0EACBF5BC",
+    "release_notes": [
+        "Implemented the V1 vehicle-search offense-anchor and evidence-module workflow.",
+        "Tightened vehicle-search module language to keep ordinary cabin-search text narrow and offense-linked.",
+        "Added guardrail regression coverage and refreshed vehicle-search review outputs for visual inspection."
+    ]
 }
