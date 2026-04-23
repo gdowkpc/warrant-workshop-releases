@@ -1,12 +1,13 @@
-﻿{
-    "latest_version": "0.1.12",
-    "build_date": "April 23, 2026",
-    "release_date": "April 23, 2026",
-    "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.12/WarrantBuilder.zip",
-    "sha256": "4AA91949A63811621B831D663D46BC88230CDA870578C722EFAAA1F0EACBF5BC",
-    "release_notes": [
-        "Implemented the V1 vehicle-search offense-anchor and evidence-module workflow.",
-        "Tightened vehicle-search module language to keep ordinary cabin-search text narrow and offense-linked.",
-        "Added guardrail regression coverage and refreshed vehicle-search review outputs for visual inspection."
-    ]
+{
+  "app": "Warrant Workshop",
+  "latest_version": "0.1.13",
+  "build_date": "April 23, 2026",
+  "release_date": "April 23, 2026",
+  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.13/WarrantBuilder.zip",
+  "sha256": "369E85F5C142515EA97F853B29697D48C6391990B15BF182F1BBF4DF10FB51B1",
+  "release_notes": [
+    "Stabilized DUII blood-draw and DUII vehicle-search Property/Evidence consistency and review repair behavior.",
+    "Removed the retired Property summary path so structured property items are the only printed source.",
+    "Tightened SFST exception visibility, other-officer required-state validation, and duplicate SFST Overview labeling."
+  ]
 }
