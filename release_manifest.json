@@ -1,13 +1,13 @@
 {
   "app": "Warrant Workshop",
-  "latest_version": "0.1.13",
+  "latest_version": "0.1.14",
   "build_date": "April 23, 2026",
   "release_date": "April 23, 2026",
-  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.13/WarrantBuilder.zip",
-  "sha256": "369E85F5C142515EA97F853B29697D48C6391990B15BF182F1BBF4DF10FB51B1",
+  "download_url": "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.14/WarrantBuilder.zip",
+  "sha256": "D5100025E9B301CEF903B58E398C6A6B16EC72BF8FC4C7DEE0F5DFE577174D21",
   "release_notes": [
-    "Stabilized DUII blood-draw and DUII vehicle-search Property/Evidence consistency and review repair behavior.",
-    "Removed the retired Property summary path so structured property items are the only printed source.",
-    "Tightened SFST exception visibility, other-officer required-state validation, and duplicate SFST Overview labeling."
+    "Rebuilt the packaged app from the verified 0.1.14 source tree and refreshed the field-release package.",
+    "Verified DUII vehicle-search packaging provenance so current builds include the recent vehicle-search workflow.",
+    "Published a fresh release package for field testing and update-check validation."
   ]
 }
