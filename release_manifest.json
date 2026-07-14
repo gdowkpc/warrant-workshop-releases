@@ -1,13 +1,13 @@
 {
-    "latest_version":  "0.1.15",
+    "latest_version":  "0.1.16",
     "release_notes":  [
-                          "Hardened vehicle-search packet integrity checks so support, prayer, and command language stay aligned.",
-                          "Added a packaged semantic smoke test for the DUII vehicle-search path to catch incomplete packets earlier.",
-                          "Fixed a prayer-panel/UI state issue that could omit ordinary vehicle-search prayer language after case load."
+                          "v0.1.16 supersedes the withdrawn v0.1.15 release.",
+                          "The packaging process now prevents unintended local application data from entering release archives.",
+                          "Users who downloaded v0.1.15 should delete it and use v0.1.16."
                       ],
-    "build_date":  "April 23, 2026",
+    "build_date":  "July 14, 2026",
     "app":  "Warrant Workshop",
-    "sha256":  "1217471C7919CDBB01F3F89169884B14629D7D0AC18886C472A79326F7CC4076",
-    "download_url":  "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.15/WarrantBuilder.zip",
-    "release_date":  "April 23, 2026"
+    "sha256":  "3325EEDDC0F35C171A6CCA147E249165A21859F5FF1D5A6ABD54B4C021EB34A3",
+    "download_url":  "https://github.com/gdowkpc/warrant-workshop-releases/releases/download/v0.1.16/WarrantBuilder.zip",
+    "release_date":  "July 14, 2026"
 }
